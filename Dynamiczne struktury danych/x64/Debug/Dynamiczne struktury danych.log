@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\MrKow\source\repos\Dynamiczne struktury danyych1\Dynamiczne struktury danych\Source.c(255,18): warning C4013: 'isdigit' undefined; assuming extern returning int
+  Dynamiczne struktury danych.vcxproj -> C:\Users\MrKow\source\repos\Dynamiczne struktury danyych1\x64\Debug\Dynamiczne struktury danych.exe
